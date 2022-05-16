@@ -1,0 +1,1 @@
+TypeScript I e II - projeto Negociacoes.

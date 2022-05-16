@@ -1,0 +1,26 @@
+Criação do Ambiente para Windows.
+
+Node: https://nodejs.org/en/download/
+Npm (Node Packager Manager): Chocolatey (é um repositório para Windows)
+PowerShell (CMD admin level): Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+Yarn:  choco install yarn
+Ferramenta para auto-restart: yarn nodemon -D (não inclui dependências)
+Ferramenta para “auto-query”  MongoDB: yarn add mongoose
+Ferramenta para API externas: yarn add axios
+Ferramenta CORS: yarn add cors (backend x frontend)
+
+Servidor
+Iniciar o servidor: node server.js
+Iniciar o servidor: yarn dev (auto-restart - “dev”  nome criado no package.json: "scripts": {"dev": "nodemon src/server.js"},
+ 
+#####################################################################
+Banco de Dados: www.mondodb.com 
+MongoDB Compass - App Windwos para acesso ao MongoDB
+
+#####################################################################
+Frontend
+Instalção do React: yarn create react-app <nomeAplicação>
+Instalação Roteador React: yarn add react-router-dom
+Instalação do Axios: yarn add axios
+
+Inicializa o frontend: yarn start

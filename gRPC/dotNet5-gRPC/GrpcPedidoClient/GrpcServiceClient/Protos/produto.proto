@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcProduto";
+
+service Produto {
+	rpc GetProdutoInfo (ProdutoLookupModel) returns (ProdutoModel);
+	rpc GetNewProdutos (NewProdutoRequest) returns (stream ProdutoModel);
+}
+
+message NewProdutoRequest {
+
+}
+
+message ProdutoLookupModel {
+	int32 id = 1;	
+}
+
+message ProdutoModel {
+	string produto = 1;
+	string tipo = 2; //pack6, pack4, pack12, pack8, lata269, lata355, lata479, longneck269, longneck350, gfa600, gfa1000, caixa, saco
+	double preco = 3;
+	bool ativo = 4;
+}

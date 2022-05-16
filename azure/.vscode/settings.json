@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/edf222aa-f1bc-462a-a6b5-d1b6d02e5709/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/anthue-newtech"
+}

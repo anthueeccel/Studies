@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Htttp2ServiceBus", "Htttp2ServiceBus.csproj", "{729864A6-400B-488B-A73C-D121D991EFA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{729864A6-400B-488B-A73C-D121D991EFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729864A6-400B-488B-A73C-D121D991EFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729864A6-400B-488B-A73C-D121D991EFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729864A6-400B-488B-A73C-D121D991EFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B7F9578-36EE-42F0-9885-4AE89C007A7D}
+	EndGlobalSection
+EndGlobal

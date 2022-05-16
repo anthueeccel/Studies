@@ -1,0 +1,1 @@
+Projeto simples para simular uma API
