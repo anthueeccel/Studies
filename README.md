@@ -1,10 +1,5 @@
 ![last_commit](https://img.shields.io/github/last-commit/anthueeccel/Studies) ![total_lines](https://img.shields.io/tokei/lines/github/anthueeccel/Studies) ![license](https://img.shields.io/github/license/anthueeccel/Studies)
 
-#### .NET 6 - Import CSV
-* Project demonstrating how to import a CSV file and map to a class (entity).
-* To send a file using Postman select FormData, Key is 'file' and of the key is file.
---------------------------------------------------
-
 #### .NET 6 - Azure Table Storage 
 * Project demonstrating the usability og Azure Table Storage (noSQL)
 --------------------------------------------------
