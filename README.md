@@ -17,7 +17,7 @@
 * Based on [this video](https://www.youtube.com/watch?v=QyxCX2GYHxk)
 --------------------------------------------------
 
-#### Angular 5 - bytebank and [*WIP*]catbook :a:
+#### Angular 5 - bytebank and catbook :a:
 * Projects based on [Alura](https://www.alura.com.br)'s online courses.
 --------------------------------------------------
 
