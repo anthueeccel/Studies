@@ -1,4 +1,4 @@
-![last_commit](https://img.shields.io/github/last-commit/anthueeccel/Studies) ![total_lines](https://img.shields.io/tokei/lines/github/anthueeccel/Studies) ![license](https://img.shields.io/github/license/anthueeccel/Studies)
+![last_commit](https://img.shields.io/github/last-commit/anthueeccel/Studies) ![license](https://img.shields.io/github/license/anthueeccel/Studies)
 
 #### .NET 6 - Azure Table Storage 
 * Project demonstrating the usability og Azure Table Storage (noSQL)
